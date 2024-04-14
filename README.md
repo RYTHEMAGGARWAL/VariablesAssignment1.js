@@ -1,0 +1,1 @@
+# VariablesAssignment1.js
